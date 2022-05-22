@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eFWp0gXyGnv+gqTVKGKo05xd7d2TDQl0qgtAzqjGJqM3mbnPquQDKjyFDLHdnzBPVjIO8MFPug3w4ch+KnhLCQ==",
+  "success": true,
+  "projectFilePath": "C:\\dxIframe\\dxIframe.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ksoma\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\ksoma\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\ksoma\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.15.3\\microsoft.powerapps.msbuild.pcf.1.15.3.nupkg.sha512"
+  ],
+  "logs": []
+}

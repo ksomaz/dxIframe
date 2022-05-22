@@ -1,0 +1,2 @@
+C:\dxIframe\obj\Debug\dxIframe.pcfproj.AssemblyReference.cache
+C:\dxIframe\obj\Debug\dxIframe.pcfproj.CoreCompileInputs.cache
