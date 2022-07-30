@@ -1,2 +1,2 @@
 # dxIframe
- DxComponnet (Power Apps)
+ DxComponent (Power Apps)
